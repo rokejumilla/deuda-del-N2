@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\",
+  "WorkspaceRootPath": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\TwoBallsGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\TwoBallsGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\TwoBallsGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\TwoBallsApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A119A565-5F60-4CDF-B907-0946D5BD0D98}|Two Balls\\Two Balls.vcxproj|solutionrelative:Two Balls\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SFMLRenderer.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.cpp",
               "RelativeDocumentMoniker": "Two Balls\\SFMLRenderer.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.cpp",
               "RelativeToolTip": "Two Balls\\SFMLRenderer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SFMLRenderer.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.h",
               "RelativeDocumentMoniker": "Two Balls\\SFMLRenderer.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\SFMLRenderer.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\SFMLRenderer.h",
               "RelativeToolTip": "Two Balls\\SFMLRenderer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Box2DHelper.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\Box2DHelper.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\Box2DHelper.h",
               "RelativeDocumentMoniker": "Two Balls\\Box2DHelper.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\Box2DHelper.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\Box2DHelper.h",
               "RelativeToolTip": "Two Balls\\Box2DHelper.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -74,25 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TwoBallsGame.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.cpp",
               "RelativeDocumentMoniker": "Two Balls\\TwoBallsGame.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.cpp",
               "RelativeToolTip": "Two Balls\\TwoBallsGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T13:08:40.232Z"
+              "WhenOpened": "2025-04-10T13:08:40.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TwoBallsGame.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.h",
               "RelativeDocumentMoniker": "Two Balls\\TwoBallsGame.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsGame.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsGame.h",
               "RelativeToolTip": "Two Balls\\TwoBallsGame.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-10T13:08:27.863Z",
               "EditorCaption": ""
@@ -101,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TwoBallsApp.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsApp.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsApp.cpp",
               "RelativeDocumentMoniker": "Two Balls\\TwoBallsApp.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Two Balls\\Two Balls\\TwoBallsApp.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Two Balls\\Two Balls\\TwoBallsApp.cpp",
               "RelativeToolTip": "Two Balls\\TwoBallsApp.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

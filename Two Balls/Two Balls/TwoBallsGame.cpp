@@ -1,5 +1,5 @@
 #include "TwoBallsGame.h"
-#include <iostream>  // para std::cout
+#include <iostream> 
 
 TwoBallsGame::TwoBallsGame(int ancho, int alto, std::string titulo) {
     window = new sf::RenderWindow(sf::VideoMode(ancho, alto), titulo);

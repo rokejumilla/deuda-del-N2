@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\",
+  "WorkspaceRootPath": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\BallApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\BallApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\BallApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA091623-EE81-4F1C-94ED-B7176B4BC647}|Ball\\Ball.vcxproj|solutionrelative:Ball\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BallApp.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\BallApp.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\BallApp.cpp",
               "RelativeDocumentMoniker": "Ball\\BallApp.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\BallApp.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\BallApp.cpp",
               "RelativeToolTip": "Ball\\BallApp.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.h",
               "RelativeDocumentMoniker": "Ball\\Game.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.h",
               "RelativeToolTip": "Ball\\Game.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.cpp",
               "RelativeDocumentMoniker": "Ball\\Game.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Game.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Game.cpp",
               "RelativeToolTip": "Ball\\Game.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SFMLRenderer.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.h",
               "RelativeDocumentMoniker": "Ball\\SFMLRenderer.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.h",
               "RelativeToolTip": "Ball\\SFMLRenderer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SFMLRenderer.cpp",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.cpp",
               "RelativeDocumentMoniker": "Ball\\SFMLRenderer.cpp",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\SFMLRenderer.cpp",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\SFMLRenderer.cpp",
               "RelativeToolTip": "Ball\\SFMLRenderer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Box2DHelper.h",
-              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Box2DHelper.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Box2DHelper.h",
               "RelativeDocumentMoniker": "Ball\\Box2DHelper.h",
-              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\Ball\\Ball\\Box2DHelper.h",
+              "ToolTip": "C:\\Users\\santino\\Downloads\\deuda-del-N2\\Ball\\Ball\\Box2DHelper.h",
               "RelativeToolTip": "Ball\\Box2DHelper.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
